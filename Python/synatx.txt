@@ -1,0 +1,4 @@
+print("Hello %s %s! You just delved into python." %(a,b))
+print(f"Hello {input()} {input()}! You just delved into python.")
+print ("Hello %s %s! You just delved into python." % (raw_input(), raw_input()))
+print(f " sum is {a+b} ok ")
